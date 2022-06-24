@@ -6,7 +6,10 @@ Camilo estuvo aqui
 Los conflictos inician en 3..2..1
 *esta es una modificacion*
 *esta es una modificacion*
+<modificacion 
 
+
+a>?
 -- Stefano: nuevo
 modificacion de agustin
 
