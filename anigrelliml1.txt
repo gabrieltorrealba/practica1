@@ -1,10 +1,10 @@
 prueba 1
 
+Los conflictos inician en 3..2..1
+*esta es una modificacion*
 *esta es una modificacion*
 
 -- Stefano: nuevo
 modificacion de agustin
 
 modificado gabriel
-
--- Stefano2: modificacion
